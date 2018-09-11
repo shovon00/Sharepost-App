@@ -2,8 +2,11 @@
 
     //DB Params
     define('DB_HOST', 'localhost');
+    //DB User
     define('DB_USER', 'root');
+    //DB Password
     define('DB_PASS', 'root');
+    //DB Name
     define('DB_NAME', 'sharepost');
     
     //App Root
