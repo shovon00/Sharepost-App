@@ -1,5 +1,7 @@
 <?php
- 
+    
+    //Page Controller
+    
     class Pages extends Controller{
         
         public function __construct(){
